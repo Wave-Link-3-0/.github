@@ -1,4 +1,4 @@
-# Wave-Link-3-0 - Creator Audio Mixing and Stream Routing Software
+# Wave Link 3.0 - Creator Audio Mixing and Stream Routing Software
 
 At a glance:
 - Multi-channel audio control for microphone, apps, music, chat, and system sound  
